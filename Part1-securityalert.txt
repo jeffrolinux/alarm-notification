@@ -1,0 +1,8 @@
+From: "myacctname" <acctusedfortext@gmail.com>
+To: "Destname" <destphonenumber@mymetropcs.com>
+Subject: Security system test
+
+To whom this may concern,
+Your window or door has been open.
+This is a test from the notification system.
+Have a wonderful day!
